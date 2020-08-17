@@ -106,3 +106,141 @@ body {
     height: 39px;
   }
   /*# sourceMappingURL=style.css.map */
+
+  .container-wrapper{
+    background-color: darkgoldenrod;
+
+}
+.right-card{
+    width: 100%;
+    height: 334px;
+    margin-right: 24px;
+}
+
+.center-wrapper{
+    width: 100%;
+    height: 334px;
+    margin-right: 24px;
+}
+
+.center-card{
+    width: 100%;
+    height: 33%;
+    padding: 10px;
+}
+
+.left-card{
+    width: 100%;
+    height: 334px;
+    margin: 0;
+}
+
+.img-container{
+    width: 100%;
+    height: 150px;
+    margin-bottom: 16px;
+    overflow: hidden;
+}
+
+.card-wrapper{
+    width: 100%;
+    height: 109px;
+}
+
+.title-wrap{
+    width: 90%;
+    height: 56px;
+    margin-bottom: 12px;
+    margin-left: 24px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 24px;
+    font-weight: 600;
+    color: #333;
+    font-family: medium-content-sans-serif-font,"Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Arial,sans-serif;
+}
+
+.card-article{
+    color: rgb(145, 145, 145);
+    font-weight: 400;
+    height: 20px;
+    margin-left: 24px;
+    font-size: 16px;
+    line-height: 20px;
+    margin-bottom: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.card-footer{
+    height: 20px;
+    border: none;
+    background-color: white;
+    font-size: 14px;
+}
+
+.anchor-style{
+    text-decoration: none;
+    color: #333;
+}
+
+.card-links-wrap{
+    height: 20px;
+    margin-left: 24px;
+    color: rgb(145, 145, 145);
+}
+
+.card-links{
+    text-decoration: none;
+    color: rgb(145, 145, 145);
+    font-size: 14px;
+}
+
+.img-small{
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    min-width: 100px;
+    margin-right: 24px;
+}
+
+.title-wrap-small{
+    height: 20px;
+    margin-bottom: 4px;
+    max-width: 235px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.card-article-small{
+    color: rgb(145, 145, 145);
+    font-weight: 400;
+    width: 200px;
+    max-width: 235px;
+    height: 20px;
+    font-size: 16px;
+    line-height: 20px;
+    margin-top: 4px;
+    margin-bottom: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.card-footer-small{
+    height: 20px;
+    border: none;
+    background-color: white;
+    font-size: 14px;
+    margin: 0;
+}
+
+.card-links-wrap-small{
+    height: 20px;
+    color: rgb(145, 145, 145);
+    font-size: 12px;
+}
+
+
