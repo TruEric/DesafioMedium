@@ -1,0 +1,108 @@
+body {
+    font-family: medium-content-sans-serif-font, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif;
+  }
+  
+  .logomobile {
+    width: 45px;
+    height: 45px;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+  }
+  
+  .logo-desk {
+    width: 112px;
+    height: 22px;
+  }
+  
+  .logohea {
+    width: 45%;
+    height: 45px;
+    margin-left: -2px;
+  }
+  
+  .iconos-h {
+    margin-top: 5px;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+    -webkit-box-align: start;
+        -ms-flex-align: start;
+            align-items: flex-start;
+    -webkit-box-pack: space-evenly;
+        -ms-flex-pack: space-evenly;
+            justify-content: space-evenly;
+    width: 50%;
+    height: 32px;
+  }
+  
+  .search {
+    width: 25px;
+    height: 25px;
+    opacity: gray;
+  }
+  
+  .notify {
+    width: 25px;
+    height: 25px;
+    fill: rgba(0, 0, 0, 0.54);
+  }
+  
+  .ico-paper {
+    width: 25px;
+    height: 25px;
+    fill: rgba(0, 0, 0, 0.54);
+  }
+  
+  .usuario {
+    width: 32px;
+    height: 32px;
+    border-radius: 25px;
+  }
+  
+  nav {
+    position: relative;
+    height: 39px;
+    overflow: hidden;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+  }
+  
+  .options {
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-box-pack: start;
+        -ms-flex-pack: start;
+            justify-content: start;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    text-align: center;
+    width: 20px;
+  }
+  
+  .flecha1, .flecha2 {
+    height: 21px;
+    width: 21px;
+  }
+  
+  .nav-item {
+    width: auto;
+    text-decoration: none;
+  }
+  
+  .nav {
+    color: rgba(0, 0, 0, 0.54);
+    text-decoration: none;
+  }
+  
+  .nav:hover {
+    color: black;
+    text-decoration: none;
+  }
+  
+  .sticky-top {
+    background-color: white;
+    height: 39px;
+  }
+  /*# sourceMappingURL=style.css.map */
